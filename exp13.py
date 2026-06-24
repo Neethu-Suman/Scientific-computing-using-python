@@ -1,4 +1,4 @@
-/Python program using a for loop to print the numbers from 1 to 15.
+//Python program using a for loop to print the numbers from 1 to 15.
 //For statements
 # Initialize a list of numbers
 numbers = [1, 2, 3, 4, 5]
