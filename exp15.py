@@ -1,3 +1,5 @@
+# Check whether a given number is prime or not Using while and if statements
+import math
 def is_prime(n):
   # If n is 1, it is not prime
   if n == 1:
